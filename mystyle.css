@@ -1,0 +1,35 @@
+        body {background-color:#2b2d31;
+            font-family:monospace;}
+        h1 {color: aliceblue;}
+        p {color:aliceblue}
+        label {color:aliceblue}
+        .center {
+            position: absolute;
+            top: 40%;
+            width: 99%;
+            text-align: center;
+        }
+        input[type=password] {
+            background-color:#2b2d31;
+            border: 1px solid white;
+            border-radius: 4px;
+            color: aliceblue;
+            cursor: text;
+        }
+        input[type=submit] {
+            font-family:monospace;
+            background-color:#2b2d31;
+            border: none;
+            color: aliceblue;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        input[type=submit]:hover {
+            color: rgb(155, 155, 155);
+        }
+        .kofi {
+            position: fixed;
+            bottom: 5%;
+            width: 99%;
+            text-align: center;
+        }
