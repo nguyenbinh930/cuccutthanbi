@@ -42,7 +42,7 @@ body {background-color:#2b2d31;
           cursor: pointer;
       }
       .button-1 {
-  background-color: #0dd9fe;
+  background-color: #45aae7;
   border-radius: 8px;
   border-style: none;
   box-sizing: border-box;
@@ -50,7 +50,7 @@ body {background-color:#2b2d31;
   cursor: pointer;
   display: inline-block;
   font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   height: 40px;
   line-height: 20px;
